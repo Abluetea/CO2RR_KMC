@@ -45,6 +45,6 @@ Center.
 4.
 
 
-The input file XZY is placed in the same directory as the executable file.
+The input file input_paramers.txt is placed in the same directory as the executable file.
 
 Lattice|Output Steps|Potential|Facet|End Steps
